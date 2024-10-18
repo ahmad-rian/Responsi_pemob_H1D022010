@@ -136,8 +136,7 @@ Screens ini digunakan untuk menangani autentikasi pengguna.
 Screenshot :
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between;">
-<img src="/img
-/login.png" alt="Login" style="width: 48%; max-width: 300px;"/>
+<img src="/img/login.png" alt="Login" style="width: 48%; max-width: 300px;"/>
   <img src="/img/register.png" alt="register" style="width: 48%; max-width: 300px;"/>
   <img src="/img/regis_ok.png" alt="berhasil regis" style="width: 48%; max-width: 300px;"/>
   <img src="/img/login_ok.png" alt="berhasil login" style="width: 48%; max-width: 300px;"/>
@@ -366,8 +365,7 @@ Form untuk menambahkan dan mengedit pengeluaran serta tampilan untuk melakukan u
 Screenshot :
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between;">
-<img src="/img
-/create.png" alt="create pengeluaran" style="width: 48%; max-width: 300px;"/>
+<img src="/img/create.png" alt="create pengeluaran" style="width: 48%; max-width: 300px;"/>
   <img src="/img/list.png" alt="list " style="width: 48%; max-width: 300px;"/>
   <img src="/img/update.png" alt="update" style="width: 48%; max-width: 300px;"/>
   <img src="/img/delete.png" alt="delete" style="width: 48%; max-width: 300px;"/>
